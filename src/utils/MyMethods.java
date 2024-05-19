@@ -8,4 +8,6 @@ public class MyMethods {
 
     // method 3
 
+    //method 4
+
 }
